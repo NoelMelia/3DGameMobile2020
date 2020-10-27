@@ -1,0 +1,740 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.0b6 (24a0f8b56f72) revision 2400504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16270 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\noelm\OneDrive\Mobile Apps Unity\2020.2.0b6\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/noelm/Onedrive G00237491/OneDrive - GMIT/Unity Files/1stTrail
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52149
+Successfully changed project path to: C:/Users/noelm/Onedrive G00237491/OneDrive - GMIT/Unity Files/1stTrail
+C:/Users/noelm/Onedrive G00237491/OneDrive - GMIT/Unity Files/1stTrail
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0b6 (24a0f8b56f72)
+[Subsystems] Discovering subsystems at path C:/Users/noelm/OneDrive/Mobile Apps Unity/2020.2.0b6/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/noelm/Onedrive G00237491/OneDrive - GMIT/Unity Files/1stTrail/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   10.18.10.4252
+Could not load symbol clCreateCommandQueueWithProperties : The specified procedure could not be found.
+
+
+Initialize mono
+Mono path[0] = 'C:/Users/noelm/OneDrive/Mobile Apps Unity/2020.2.0b6/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/noelm/OneDrive/Mobile Apps Unity/2020.2.0b6/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/noelm/OneDrive/Mobile Apps Unity/2020.2.0b6/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56092
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/noelm/OneDrive/Mobile Apps Unity/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002720 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.612 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001219 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\noelm\Onedrive G00237491\OneDrive - GMIT\Unity Files\1stTrail\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.172 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1087 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.4 MB.
+System memory in use after: 58.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1529.
+Total: 2.613400 ms (FindLiveObjects: 0.399400 ms CreateObjectMapping: 0.067900 ms MarkObjects: 2.056400 ms  DeleteObjects: 0.087500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SpaceScreenLevel1.mat
+  artifactKey: Guid(9c4279c2e19cb7441b486b0b6b9da60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpaceScreenLevel1.mat using Guid(9c4279c2e19cb7441b486b0b6b9da60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b51c71132f8697f659d7ffc56dbca71') in 0.175824 seconds
+  Import took 0.179187 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/noelm/OneDrive/Mobile Apps Unity/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002357 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\noelm\Onedrive G00237491\OneDrive - GMIT\Unity Files\1stTrail\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.171 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000988 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\noelm\Onedrive G00237491\OneDrive - GMIT\Unity Files\1stTrail\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.226 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.5 MB.
+System memory in use after: 40.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 2.497100 ms (FindLiveObjects: 0.417400 ms CreateObjectMapping: 0.102600 ms MarkObjects: 1.902700 ms  DeleteObjects: 0.071600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.425234 seconds.
+  path: Assets/Music
+  artifactKey: Guid(cbaf449e369530e4d9a993e0042fc7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music using Guid(cbaf449e369530e4d9a993e0042fc7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3714686814ba8ada01639a9790942e5') in 0.012581 seconds
+  Import took 0.015618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.173321 seconds.
+  path: Assets/Music/Boss level.mp3
+  artifactKey: Guid(cc520d8fad9a0fe4baea9ecaad106d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music/Boss level.mp3 using Guid(cc520d8fad9a0fe4baea9ecaad106d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fdb43c89cc9e1ddfa33a2bd018aee03') in 0.079270 seconds
+  Import took 0.082313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/Music/Levels.mp3
+  artifactKey: Guid(63d0b0f245f52be449cc5143e586a25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music/Levels.mp3 using Guid(63d0b0f245f52be449cc5143e586a25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d1cbca98751c9983f38e787b82e9cd') in 0.036277 seconds
+  Import took 0.042265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001022 seconds.
+  path: Assets/Music/MianMenu music.mp3
+  artifactKey: Guid(ef600deadeccbec4ba738adac08f4d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music/MianMenu music.mp3 using Guid(ef600deadeccbec4ba738adac08f4d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e07f909cbd627e4713db898895b110') in 0.033677 seconds
+  Import took 0.037107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Music/Levels.mp3
+  artifactKey: Guid(63d0b0f245f52be449cc5143e586a25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music/Levels.mp3 using Guid(63d0b0f245f52be449cc5143e586a25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d1cbca98751c9983f38e787b82e9cd') in 0.021637 seconds
+  Import took 0.026782 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/noelm/OneDrive/Mobile Apps Unity/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002375 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\noelm\Onedrive G00237491\OneDrive - GMIT\Unity Files\1stTrail\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 32.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.181 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001002 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\noelm\Onedrive G00237491\OneDrive - GMIT\Unity Files\1stTrail\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.228 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.8 MB.
+System memory in use after: 40.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 2.160400 ms (FindLiveObjects: 0.370300 ms CreateObjectMapping: 0.068000 ms MarkObjects: 1.647100 ms  DeleteObjects: 0.073000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.860175 seconds.
+  path: Assets/Music/MainMenu music.mp3
+  artifactKey: Guid(ef600deadeccbec4ba738adac08f4d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Music/MainMenu music.mp3 using Guid(ef600deadeccbec4ba738adac08f4d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '255e4ed0b362cee92aa34414a99e22f8') in 0.072899 seconds
+  Import took 0.075847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 221.352520 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet
+  artifactKey: Guid(8973098235cae324889d1832328e67b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet using Guid(8973098235cae324889d1832328e67b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd36f88afcd8d2a451672cfcecdd52825') in 0.021645 seconds
+  Import took 0.026128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed
+  artifactKey: Guid(c79155cfd6236b7499c1980f01b6f011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed using Guid(c79155cfd6236b7499c1980f01b6f011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7484d7806b87d8c3514582175b53898') in 0.019540 seconds
+  Import took 0.022894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet
+  artifactKey: Guid(4be5fcb7204c2c34289c1381a134aeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet using Guid(4be5fcb7204c2c34289c1381a134aeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c881e8474e0458e6ed8c98543015b74') in 0.018336 seconds
+  Import took 0.020978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet
+  artifactKey: Guid(6673d8cd2e6ed2e48933927b6b1fdfb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet using Guid(6673d8cd2e6ed2e48933927b6b1fdfb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ee20a354390b5a84ddc8275855e22f') in 0.013622 seconds
+  Import took 0.017934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet
+  artifactKey: Guid(8973098235cae324889d1832328e67b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet using Guid(8973098235cae324889d1832328e67b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd36f88afcd8d2a451672cfcecdd52825') in 0.010761 seconds
+  Import took 0.015728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen
+  artifactKey: Guid(3be9574d97cf0c94b982458053db139c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen using Guid(3be9574d97cf0c94b982458053db139c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b144b39188c41835883dcb54ec05db') in 0.040172 seconds
+  Import took 0.043443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.606002 seconds.
+  path: Assets/ArvisMag_Assets/BlockySpaceShips/Fihter
+  artifactKey: Guid(c9537de01c18cc841abc893d672fe6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArvisMag_Assets/BlockySpaceShips/Fihter using Guid(c9537de01c18cc841abc893d672fe6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7bb85b3dc99bc9f7762ee788fe89d57') in 0.011616 seconds
+  Import took 0.014576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.676546 seconds.
+  path: Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/FbxModel
+  artifactKey: Guid(b1469d320b701f04e8d04fdaac215e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/FbxModel using Guid(b1469d320b701f04e8d04fdaac215e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c30a800c1eba511b492d6ef60d1881') in 0.010341 seconds
+  Import took 0.013289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/bs_fihter_scene.unity
+  artifactKey: Guid(676916a80bb070b4cbb771d90217da59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/bs_fihter_scene.unity using Guid(676916a80bb070b4cbb771d90217da59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f59a599b9afcfd7987995d1f2d08e2') in 0.017812 seconds
+  Import took 0.022884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/BlockyShip_Fihter_.prefab
+  artifactKey: Guid(61954f4a94623b642b25d1e38295a31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/BlockyShip_Fihter_.prefab using Guid(61954f4a94623b642b25d1e38295a31a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35960797d6095fc939a1a98629a2bd75') in 0.096086 seconds
+  Import took 0.100546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/bs_fihter_sceneSettings.lighting
+  artifactKey: Guid(012f76a91b20a7549aeeb54243a4c375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/bs_fihter_sceneSettings.lighting using Guid(012f76a91b20a7549aeeb54243a4c375) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'e7e96b755829c89086311e1ffdc55d4e') in 0.022896 seconds
+  Import took 0.027298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/SkyBox
+  artifactKey: Guid(86017dda6b0100b4da4e452d46c06134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/SkyBox using Guid(86017dda6b0100b4da4e452d46c06134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf70ad9d21236ee7758eb5876c0d5253') in 0.013602 seconds
+  Import took 0.016345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.439727 seconds.
+  path: Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/SkyBox/SkyBox_Mat.mat
+  artifactKey: Guid(60ac841900a08514eb23dee5093c6626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/SkyBox/SkyBox_Mat.mat using Guid(60ac841900a08514eb23dee5093c6626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb7ec95bd0850d46e261941838121557') in 0.075967 seconds
+  Import took 0.079618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005589 seconds.
+  path: Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/SkyBox/SkyBox_Mat.mat
+  artifactKey: Guid(60ac841900a08514eb23dee5093c6626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArvisMag_Assets/BlockySpaceShips/Fihter/SkyBox/SkyBox_Mat.mat using Guid(60ac841900a08514eb23dee5093c6626) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb7ec95bd0850d46e261941838121557') in 0.043107 seconds
+  Import took 0.046441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.935751 seconds.
+  path: Assets/Space Ship
+  artifactKey: Guid(8bca860b0c4501e4a96d071a668bd68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship using Guid(8bca860b0c4501e4a96d071a668bd68d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ce009645704780aceee0255d86a83f1') in 0.021600 seconds
+  Import took 0.024470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.537132 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/Texture
+  artifactKey: Guid(d49dbb8cbaeb0cc4096d251403fe421c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/Texture using Guid(d49dbb8cbaeb0cc4096d251403fe421c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3e384c37d6129057116e16b1f3e7e1b') in 0.020448 seconds
+  Import took 0.024406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/Ship_Fiter_.fbx
+  artifactKey: Guid(8ef084a5ecdcca845a7ffa7b421ecff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/Ship_Fiter_.fbx using Guid(8ef084a5ecdcca845a7ffa7b421ecff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cb5b05ec6a9c981b863493aae5e2582') in 0.140010 seconds
+  Import took 0.142960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3153.995119 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS
+  artifactKey: Guid(2755ce07918d9734883cbcd4069272c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS using Guid(2755ce07918d9734883cbcd4069272c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b09087fb1544949561c6c3bc4494ee8f') in 0.010111 seconds
+  Import took 0.014111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.892855 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/Low_poly_UFO.3DS
+  artifactKey: Guid(9c7b03a074b71ae49afc1617968dca3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/Low_poly_UFO.3DS using Guid(9c7b03a074b71ae49afc1617968dca3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c6a8ef8828594c3d768d81deeaaa1cd') in 0.075693 seconds
+  Import took 0.079766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001350 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_normal.png
+  artifactKey: Guid(d56ea06059dbe3b4baf06569048d4640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_normal.png using Guid(d56ea06059dbe3b4baf06569048d4640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a08434771f6b9e3b889dcf21f181f3') in 0.141820 seconds
+  Import took 0.144899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_diffuse2.png
+  artifactKey: Guid(809efaeb8ae1a9d44bc64c78113828b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_diffuse2.png using Guid(809efaeb8ae1a9d44bc64c78113828b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde1e059065f52a1a5d7635491d904b0') in 0.032740 seconds
+  Import took 0.035464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001262 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_diffuse_glow.png
+  artifactKey: Guid(3a4a1cff0524fb841a8d7821820be663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_diffuse_glow.png using Guid(3a4a1cff0524fb841a8d7821820be663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '887450a0e19c95294aad0a1994270996') in 0.050526 seconds
+  Import took 0.053412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_diffuse2_glow.png
+  artifactKey: Guid(a4d5aa267b8e31b49b247a0b67c96a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_diffuse2_glow.png using Guid(a4d5aa267b8e31b49b247a0b67c96a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50bdfaaf4a8c241b06a63608bc29fbf1') in 0.054938 seconds
+  Import took 0.057579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_spec.png
+  artifactKey: Guid(a45e6694a89e09241a8bb57f081774fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_spec.png using Guid(a45e6694a89e09241a8bb57f081774fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a8ee181f917141fe386618b1929a90') in 0.054798 seconds
+  Import took 0.057620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_diffuse.png
+  artifactKey: Guid(bbcb0d16f00ba124d9989cf357156cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/ufo_diffuse.png using Guid(bbcb0d16f00ba124d9989cf357156cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e4a1d5c694f72b489236aefc9e9323') in 0.054767 seconds
+  Import took 0.058423 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/noelm/OneDrive/Mobile Apps Unity/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002485 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\noelm\Onedrive G00237491\OneDrive - GMIT\Unity Files\1stTrail\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.288 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001423 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\noelm\Onedrive G00237491\OneDrive - GMIT\Unity Files\1stTrail\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.348 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.3 MB.
+System memory in use after: 41.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1589.
+Total: 2.298600 ms (FindLiveObjects: 0.375900 ms CreateObjectMapping: 0.092700 ms MarkObjects: 1.762900 ms  DeleteObjects: 0.065100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 217.134194 seconds.
+  path: Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/Low_poly_UFO.3DS
+  artifactKey: Guid(9c7b03a074b71ae49afc1617968dca3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Ship/BlockySpaceShips/Fihter/FbxModel/uploads_files_2389708_Low_poly_UFO_3DS/Low_poly_UFO.3DS using Guid(9c7b03a074b71ae49afc1617968dca3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f5ad15059558ba677b019c90a84034') in 0.205146 seconds
+  Import took 0.208424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1074.834355 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO
+  artifactKey: Guid(2e173b297a5425a4f9a85cd5ad844275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO using Guid(2e173b297a5425a4f9a85cd5ad844275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa83b2e83750b93595896f063cda717') in 0.024945 seconds
+  Import took 0.029532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005541 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO
+  artifactKey: Guid(2e173b297a5425a4f9a85cd5ad844275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO using Guid(2e173b297a5425a4f9a85cd5ad844275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa83b2e83750b93595896f063cda717') in 0.011911 seconds
+  Import took 0.016475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.701957 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO
+  artifactKey: Guid(8f17025ddbbad7940b3eaefacd5b11cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO using Guid(8f17025ddbbad7940b3eaefacd5b11cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022a900209324c459ca48a7b7d09afc4') in 0.011154 seconds
+  Import took 0.014286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.878976 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture
+  artifactKey: Guid(ec8396fa0af598541ab06087db002dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture using Guid(ec8396fa0af598541ab06087db002dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c0ddf6a4c78c9c8e03291432b12887b') in 0.008826 seconds
+  Import took 0.012065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Modular UFO 2.8.blend
+  artifactKey: Guid(22cea7764d22652449cb2765f814e85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Modular UFO 2.8.blend using Guid(22cea7764d22652449cb2765f814e85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b71fcb1ccced0eff65a3c9191116d4') in 0.013308 seconds
+  Import took 0.017314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Modular UFO 2.79b.blend
+  artifactKey: Guid(2fb601d3cff55b04eae01b22032bb6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Modular UFO 2.79b.blend using Guid(2fb601d3cff55b04eae01b22032bb6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ef1cfd0e6478083427898139c655093') in 0.013925 seconds
+  Import took 0.016825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.503416 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_ao.jpg
+  artifactKey: Guid(8bb94e086fe28b64cb5a271613a292eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_ao.jpg using Guid(8bb94e086fe28b64cb5a271613a292eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc645fd8eec4a35683d8bc894e2ed678') in 0.037300 seconds
+  Import took 0.040679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_color.jpg
+  artifactKey: Guid(58ea823cb4a02d44c977ddb81a399e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_color.jpg using Guid(58ea823cb4a02d44c977ddb81a399e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6ec686abec5ce6ca9a8fec638c2e50') in 0.036055 seconds
+  Import took 0.039033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_disp.jpg
+  artifactKey: Guid(7e48356b9c30f5c48beaccc7ae185c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_disp.jpg using Guid(7e48356b9c30f5c48beaccc7ae185c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b01a7677b6f4f1b980c6ba0ea2b6d24') in 0.043152 seconds
+  Import took 0.049128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_metalness.jpg
+  artifactKey: Guid(e02b5338caadf40429bbda75a11b02a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_metalness.jpg using Guid(e02b5338caadf40429bbda75a11b02a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f67bcebfbc0f1ae5757261616ea120c8') in 0.040373 seconds
+  Import took 0.045287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_nmap.jpg
+  artifactKey: Guid(18c9061199173d44cb1cc933159ab8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_nmap.jpg using Guid(18c9061199173d44cb1cc933159ab8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6bf0070542145ed20dcc7653aed851') in 0.038727 seconds
+  Import took 0.043170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001102 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_rough.jpg
+  artifactKey: Guid(455af875e8d4b7a40a4c9b207c76ef40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_rough.jpg using Guid(455af875e8d4b7a40a4c9b207c76ef40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a66f12241ff132986932793d0b5007d') in 0.035106 seconds
+  Import took 0.039693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_emi_2.jpg
+  artifactKey: Guid(cf9a7893706134641932a42427210341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_emi_2.jpg using Guid(cf9a7893706134641932a42427210341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba0767690072a48ce0caf88388d2e7b6') in 0.036969 seconds
+  Import took 0.041296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_curvature.jpg
+  artifactKey: Guid(b62d8bb86d0c6c04183110d8c0f77f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_curvature.jpg using Guid(b62d8bb86d0c6c04183110d8c0f77f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b1c1eb401f43b7b245b7350595a71c') in 0.044036 seconds
+  Import took 0.057221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006005 seconds.
+  path: Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_curvature.jpg
+  artifactKey: Guid(b62d8bb86d0c6c04183110d8c0f77f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_Modular+UFO/Modular UFO/Texture/UFO_curvature.jpg using Guid(b62d8bb86d0c6c04183110d8c0f77f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b1c1eb401f43b7b245b7350595a71c') in 0.022684 seconds
+  Import took 0.026123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.297654 seconds.
+  path: Assets/uploads_files_2032941_UFO_Empty+PLY
+  artifactKey: Guid(91cdd2350fd69754cabc40d2caf9b68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_UFO_Empty+PLY using Guid(91cdd2350fd69754cabc40d2caf9b68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f45c66a84482338f00f1e3a80c6c8c') in 0.011830 seconds
+  Import took 0.015580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.618013 seconds.
+  path: Assets/uploads_files_2032941_UFO_Empty+PLY/UFO_Empty PLY
+  artifactKey: Guid(0e8bc4916d111eb4e87e07b3ff3680c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_UFO_Empty+PLY/UFO_Empty PLY using Guid(0e8bc4916d111eb4e87e07b3ff3680c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd4407973e64e95bff855ee38c1fa165') in 0.019478 seconds
+  Import took 0.023803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.421155 seconds.
+  path: Assets/uploads_files_2032941_UFO_Empty+PLY/UFO_Empty PLY/UFO_Empty.ply
+  artifactKey: Guid(b555392ffca6cb14b91ac196b22ca73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2032941_UFO_Empty+PLY/UFO_Empty PLY/UFO_Empty.ply using Guid(b555392ffca6cb14b91ac196b22ca73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda26108d083ae424a69e07da61044b6') in 0.021024 seconds
+  Import took 0.026477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 154.795872 seconds.
+  path: Assets/uploads_files_2040403_blend
+  artifactKey: Guid(b8e88ae8663911c4596d568c35f76662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend using Guid(b8e88ae8663911c4596d568c35f76662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c742f570b4aff8a6a4e812b1d5b2caf') in 0.017499 seconds
+  Import took 0.020467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.254755 seconds.
+  path: Assets/uploads_files_2040403_blend/blend
+  artifactKey: Guid(f9b8c03b69944f240b3e6b02e195c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend using Guid(f9b8c03b69944f240b3e6b02e195c348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ea46414215e2b10d80d182ea65accfe') in 0.010001 seconds
+  Import took 0.012856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.325715 seconds.
+  path: Assets/uploads_files_2040403_blend/blend/Images
+  artifactKey: Guid(30d6b78912985c849b58052895396a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend/Images using Guid(30d6b78912985c849b58052895396a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cbe34af86e223493f71970438a66e69') in 0.010976 seconds
+  Import took 0.013889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/uploads_files_2040403_blend/blend/UFO_Saucer_A1.blend
+  artifactKey: Guid(ab40ab300a46e8349b0950d56c8b519d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend/UFO_Saucer_A1.blend using Guid(ab40ab300a46e8349b0950d56c8b519d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c5a5bef6698fc6cf342d1cd7463b5f2') in 0.015947 seconds
+  Import took 0.019518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/uploads_files_2040403_blend/blend/Textures
+  artifactKey: Guid(f77bf75ac3e6c1349acc0e7a71a7841c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend/Textures using Guid(f77bf75ac3e6c1349acc0e7a71a7841c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48787f03b0af268417eca046120daf67') in 0.010261 seconds
+  Import took 0.016149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/uploads_files_2040403_blend/blend/UFO_Saucer_A1.blend1
+  artifactKey: Guid(88ff96302e5480f4dbf7d610ee0910ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend/UFO_Saucer_A1.blend1 using Guid(88ff96302e5480f4dbf7d610ee0910ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8748e33de6f22f0a9f10ba5254a259e') in 0.012757 seconds
+  Import took 0.019982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/uploads_files_2040403_blend/blend/readme_SaucerA.txt
+  artifactKey: Guid(b26e45eec32a94b41aa2302ee620833c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend/readme_SaucerA.txt using Guid(b26e45eec32a94b41aa2302ee620833c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29644279ec151f20ead315e436187ab') in 0.015963 seconds
+  Import took 0.018898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.632507 seconds.
+  path: Assets/uploads_files_2040403_blend/blend/Images/A1(2).png
+  artifactKey: Guid(22c1c96c2f0f795458ec26b7ccf8327c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend/Images/A1(2).png using Guid(22c1c96c2f0f795458ec26b7ccf8327c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2104f702bba0f8832b602bb247dacee') in 0.022953 seconds
+  Import took 0.026320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/uploads_files_2040403_blend/blend/Images/A1.png
+  artifactKey: Guid(4597b14ac38e6fd4a8b0280072be4553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend/Images/A1.png using Guid(4597b14ac38e6fd4a8b0280072be4553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c042ed2675d6e6bbc213dc8b258449ba') in 0.029305 seconds
+  Import took 0.031998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/uploads_files_2040403_blend/blend/Images/A1(3).png
+  artifactKey: Guid(7e02448ecf574134d9c1608467e63f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend/Images/A1(3).png using Guid(7e02448ecf574134d9c1608467e63f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f078c4d99b10f12c714d1d4a0db68a') in 0.041162 seconds
+  Import took 0.043885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/uploads_files_2040403_blend/blend/Images/A1(wireframe2).png
+  artifactKey: Guid(db6a9575dcb971a409755ad190fd0175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend/Images/A1(wireframe2).png using Guid(db6a9575dcb971a409755ad190fd0175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1b03a520e407f2bf4e22f546cb6209') in 0.039873 seconds
+  Import took 0.042447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/uploads_files_2040403_blend/blend/Images/A1(wireframe).png
+  artifactKey: Guid(82997bea95cffe64ca232bcc2edcc9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2040403_blend/blend/Images/A1(wireframe).png using Guid(82997bea95cffe64ca232bcc2edcc9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '192d4dda9d3924b172aebe882ef1572c') in 0.041368 seconds
+  Import took 0.046070 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/noelm/OneDrive/Mobile Apps Unity/2020.2.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002336 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\noelm\Onedrive G00237491\OneDrive - GMIT\Unity Files\1stTrail\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.270 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001006 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\noelm\Onedrive G00237491\OneDrive - GMIT\Unity Files\1stTrail\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.5 MB.
+System memory in use after: 41.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1595.
+Total: 2.206600 ms (FindLiveObjects: 0.360000 ms CreateObjectMapping: 0.061000 ms MarkObjects: 1.705900 ms  DeleteObjects: 0.077300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
